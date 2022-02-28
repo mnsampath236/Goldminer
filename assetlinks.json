@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goldminer.www.twa",
+      "sha256_cert_fingerprints":
+        ["C4:64:92:09:2C:6D:08:4D:C1:C0:A3:59:2B:05:A1:25:94:98:B0:8F:32:CC:8B:FC:A7:3A:62:D4:2E:BD:39:5A"]
+    }
+  }
+]
